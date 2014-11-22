@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>CD79D0CD-2B55-4929-ABA1-940528F1FB03</string>
+	<key>IDESourceControlProjectName</key>
+	<string>swift_skillshare</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3E76E2A5A705ADBC42E527F596BB2289730AE9C0</key>
+		<string>github.com:jroachkilla/swiftapp.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>swift_skillshare.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>3E76E2A5A705ADBC42E527F596BB2289730AE9C0</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:jroachkilla/swiftapp.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>3E76E2A5A705ADBC42E527F596BB2289730AE9C0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3E76E2A5A705ADBC42E527F596BB2289730AE9C0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>swift_skillshare</string>
+		</dict>
+	</array>
+</dict>
+</plist>
