@@ -11,19 +11,23 @@ import UIKit
 class ViewController: UIViewController {
     
     // create ivars
-    var my_first_label: UILabel!
+    var myfirstlabel: UILabel!
     var iphone_label: UILabel!
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         // create labels
-        my_first_label = UILabel()
-        my_first_label.text = "my first"
-        my_first_label.font = UIFont.systemFontOfSize(36)
-        my_first_label.sizeToFit()
-        my_first_label.center = CGPoint(x: 100, y: 40)
-        view.addSubview(my_first_label)
+        myfirstlabel = UILabel()
+        myfirstlabel.text = "my first"
+        myfirstlabel.font = UIFont.systemFontOfSize(36)
+        myfirstlabel.sizeToFit()
+        myfirstlabel.center = CGPoint(x: 100, y: 40)
+        view.addSubview(myfirstlabel)
+        
+        UIView.animateWithDuration(0.5, delay: 0.0, usingSpringWithDamping: 0.9, initialSpringVelocity: 0.0, options: nil, animations: {
+            self.myfirstlabel.center = CGPoint(x: 100, y: 40 + 200)
+        }, completion: nil)
         
         iphone_label = UILabel()
         iphone_label.text = "my first"
